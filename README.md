@@ -6,8 +6,8 @@
 To develop an android application while closing app or pressing button show alert or warning message in android studio using alert or prompt dialog box.
 ```
 /*
-Submitted by: ASHMI S
-Register number: 212221040021
+Submitted by:ILAYARAJA M
+Register number: 212221040057
 */
 ```
 ## activity_main.xml:
